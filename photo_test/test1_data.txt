@@ -1,0 +1,27 @@
+sunflower:
+Coordinates: (0, 2398, 1181, 3353), Confidence: 0.94
+Coordinates: (3145, 2700, 3888, 3360), Confidence: 0.93
+Coordinates: (2725, 2352, 3272, 2974), Confidence: 0.90
+Coordinates: (1693, 2788, 2168, 3337), Confidence: 0.89
+Coordinates: (1930, 2304, 2264, 2602), Confidence: 0.88
+Coordinates: (1358, 2081, 1623, 2322), Confidence: 0.86
+Coordinates: (2393, 2248, 2747, 2588), Confidence: 0.81
+Coordinates: (714, 2068, 964, 2326), Confidence: 0.80
+Coordinates: (3476, 2398, 3799, 2692), Confidence: 0.79
+Coordinates: (1796, 2169, 2040, 2378), Confidence: 0.76
+Coordinates: (1313, 2467, 1626, 2800), Confidence: 0.75
+Coordinates: (1244, 1983, 1431, 2171), Confidence: 0.73
+Coordinates: (2854, 2123, 3070, 2296), Confidence: 0.71
+Coordinates: (1002, 2174, 1225, 2383), Confidence: 0.70
+Coordinates: (1641, 1946, 1840, 2147), Confidence: 0.66
+Coordinates: (1163, 2452, 1443, 2783), Confidence: 0.63
+Coordinates: (3414, 2079, 3549, 2234), Confidence: 0.60
+Coordinates: (207, 1988, 460, 2240), Confidence: 0.58
+Coordinates: (0, 2059, 185, 2401), Confidence: 0.54
+Coordinates: (3536, 2183, 3679, 2333), Confidence: 0.54
+Coordinates: (2407, 2109, 2557, 2228), Confidence: 0.48
+Coordinates: (2216, 2327, 2421, 2530), Confidence: 0.39
+Coordinates: (2285, 2213, 2510, 2436), Confidence: 0.37
+Coordinates: (1216, 2337, 1469, 2568), Confidence: 0.36
+Coordinates: (4, 1942, 178, 2145), Confidence: 0.29
+Coordinates: (979, 2196, 1230, 2416), Confidence: 0.28
