@@ -1,0 +1,14 @@
+sunflower:
+Coordinates: (1759, 2492, 2985, 3582), Confidence: 0.81
+Coordinates: (2095, 278, 2381, 668), Confidence: 0.78
+Coordinates: (1027, 175, 1469, 599), Confidence: 0.75
+Coordinates: (110, 1962, 1384, 2911), Confidence: 0.74
+Coordinates: (0, 449, 424, 968), Confidence: 0.70
+Coordinates: (4759, 1145, 5629, 1734), Confidence: 0.69
+Coordinates: (5156, 2544, 6047, 3995), Confidence: 0.62
+Coordinates: (4303, 1923, 5522, 2992), Confidence: 0.49
+Coordinates: (3524, 525, 3987, 935), Confidence: 0.47
+Coordinates: (63, 1752, 402, 2125), Confidence: 0.36
+Coordinates: (5409, 876, 5787, 1301), Confidence: 0.32
+Coordinates: (1046, 628, 1377, 949), Confidence: 0.32
+Coordinates: (5613, 332, 6042, 737), Confidence: 0.31
